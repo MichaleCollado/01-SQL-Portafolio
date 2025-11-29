@@ -196,7 +196,10 @@ Departamentos table:
 
 📬 Contacto
 Michael Paul Collado Morales
+
 📍 Arequipa, Perú
+
 📧 michael.collado@outlook.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/michaelpaulcm
 
