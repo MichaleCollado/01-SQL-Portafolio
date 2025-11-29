@@ -189,18 +189,6 @@ Departamentos table:
 28.	Analizar clientes nuevos vs recurrentes en un periodo determinado.
 29.	Calcular el crecimiento relativo del top 10 de clientes.
 30.	Crear un resumen mensual con ventas acumuladas, ranking y porcentaje sobre total.
-    
-🟡 NIVEL EXPERTO
-1.	Implementar un análisis RFM (Recency, Frequency, Monetary) completo de clientes.
-2.	Calcular cohortes mensuales y su tasa de retención.
-3.	Generar un dashboard SQL con métricas clave (KPI): ventas totales, ticket promedio, clientes activos.
-4.	Detectar los productos “estrella” (80% de ingresos con 20% de productos).
-6.	Crear un modelo de proyección de ventas basado en promedio móvil.
-7.	Analizar la relación entre margen y volumen (correlación simple).
-8.	Detectar los meses con caídas superiores al 20% intermensual.
-9.	Crear un top dinámico de productos por región con RANK() y PARTITION BY.
-10.	Calcular el valor de vida del cliente (CLV) según frecuencia y ticket medio.
-11.	Generar un reporte de ventas acumuladas y ranking por trimestre.
 
 
 
