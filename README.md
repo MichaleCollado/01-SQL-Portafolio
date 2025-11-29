@@ -15,16 +15,17 @@ El objetivo es demostrar dominio en:
 
 🗂 Contenido del Repositorio
 01-SQL-Portafolio/
-- datasets/
+- 00-datasets/
   - ventas.csv
   - clientes.csv
   - productos.csv
   - empleados.csv
   - departamentos│
-- queries-nivel_basico
-- queris-nivel-intermedio
-- queries-nivel-avanzado
-
+- 00-SQL-Portafolio.sql
+  - creación de tablas
+  - queries-nivel_basico
+  - queris-nivel-intermedio
+  - queries-nivel-avanzado
 
 🗂 Información Tablas
 
