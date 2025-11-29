@@ -1,5 +1,4 @@
-Autor: Michael Paul Collado Morales
-📬 Contacto
+📬 Autor:
 Michael Paul Collado Morales
 📍 Arequipa, Perú
 📧 michael.collado@outlook.com
